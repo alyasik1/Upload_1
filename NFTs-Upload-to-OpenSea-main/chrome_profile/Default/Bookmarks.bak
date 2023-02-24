@@ -1,0 +1,47 @@
+{
+   "checksum": "222245c7c52218990bdf611d7d00221a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13315834134597405",
+            "date_last_used": "0",
+            "guid": "37ca5557-0fa8-4a78-924b-611ca60b621a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Touch VPN - Secure and unlimited VPN proxy - Chrome Web Store",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd/related?hl=en-US"
+         } ],
+         "date_added": "13315834017424013",
+         "date_last_used": "0",
+         "date_modified": "13315834134597405",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13315834017424014",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13315834017424015",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

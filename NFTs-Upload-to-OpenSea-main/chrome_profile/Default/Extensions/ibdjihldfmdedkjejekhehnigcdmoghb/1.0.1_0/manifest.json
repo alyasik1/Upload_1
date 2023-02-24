@@ -1,0 +1,32 @@
+{
+   "description": "Speed VPN For PC, Windows 7/8/10 & Mac chrome theme can easily change your chrome browser's New Tab Color and New tab background.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA17BrBQioqlX8BlOo3Y9/sUBl2WM/q4h8Py+gawVQ4Spe1XBggFjIcmt4rXNcSiKYwVcUWdjSmBufndkk1w2AjkLNtVHTD+m3JRHRSIA1QJXd3I+IYqYGkxhl9Pwm6T1vrgALTayA+QknS8i7a+vph2LQ5quvHJEE6nM2OJqwDQ2ZytoZvxoxtO7AKfSdZP5M8onjpeNwkEY02fSC5b7etyKdgjtjDHEHVutDCEswyEYklgNWYK99yrl1MqCFJvfwsnScjHIuZ/4iHQDGIBqKdEhvxumJUvYn4pmOM8BAfPblkttTKfY4MkMfnFD9ND1aFh6ekNwnh5Tt5R9BcX7coQIDAQAB",
+   "manifest_version": 3,
+   "name": "Speed VPN For PC (Windows 7/8/10/Mac) - Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 26, 26, 81 ],
+         "ntp_background": [ 26, 26, 81 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 2, 36, 74 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.jpeg",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0.71, 0.09, 0.83 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}
